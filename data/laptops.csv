@@ -1,0 +1,5 @@
+Brand,Model Name,Processor,RAM,Storage,GPU,Screen Size,OS,Weight,Price
+Dell,Inspiron 15,Intel i5,8,512,Intel UHD,15.6,Windows 11,1.7,52000
+HP,Pavilion,Intel i7,16,1024,NVIDIA GTX 1650,15.6,Windows 11,1.9,78000
+Lenovo,ThinkPad,AMD Ryzen 5,8,256,AMD Radeon,14,Windows 10,1.5,60000
+Asus,VivoBook,Apple M1,4,128,Intel UHD,15.6,Windows 10,1.6,35000
